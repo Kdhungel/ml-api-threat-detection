@@ -1,0 +1,11 @@
+*.json
+!package.json
+*.key
+*.pem
+.env
+.env.*
+__pycache__/
+.venv/
+venv/
+*.csv
+.DS_Store
